@@ -1,1 +1,1 @@
-# javascriptproject8
+The Counter Web Application is a simple and interactive tool that allows users to increase or decrease a numeric value with the click of a button. It demonstrates core JavaScript concepts such as DOM manipulation and event handling, and is styled using CSS to provide a clean, user-friendly interface. This project is ideal for beginners and is often used as an introductory exercise in web development.
